@@ -1,0 +1,16 @@
+C:\Users\T-Gamer\Desktop\SENAI_ATIV\Ex_passagensAereas\bin\Debug\net5.0\Ex_passagensAereas.exe
+C:\Users\T-Gamer\Desktop\SENAI_ATIV\Ex_passagensAereas\bin\Debug\net5.0\Ex_passagensAereas.deps.json
+C:\Users\T-Gamer\Desktop\SENAI_ATIV\Ex_passagensAereas\bin\Debug\net5.0\Ex_passagensAereas.runtimeconfig.json
+C:\Users\T-Gamer\Desktop\SENAI_ATIV\Ex_passagensAereas\bin\Debug\net5.0\Ex_passagensAereas.runtimeconfig.dev.json
+C:\Users\T-Gamer\Desktop\SENAI_ATIV\Ex_passagensAereas\bin\Debug\net5.0\Ex_passagensAereas.dll
+C:\Users\T-Gamer\Desktop\SENAI_ATIV\Ex_passagensAereas\bin\Debug\net5.0\ref\Ex_passagensAereas.dll
+C:\Users\T-Gamer\Desktop\SENAI_ATIV\Ex_passagensAereas\bin\Debug\net5.0\Ex_passagensAereas.pdb
+C:\Users\T-Gamer\Desktop\SENAI_ATIV\Ex_passagensAereas\obj\Debug\net5.0\Ex_passagensAereas.csprojAssemblyReference.cache
+C:\Users\T-Gamer\Desktop\SENAI_ATIV\Ex_passagensAereas\obj\Debug\net5.0\Ex_passagensAereas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-Gamer\Desktop\SENAI_ATIV\Ex_passagensAereas\obj\Debug\net5.0\Ex_passagensAereas.AssemblyInfoInputs.cache
+C:\Users\T-Gamer\Desktop\SENAI_ATIV\Ex_passagensAereas\obj\Debug\net5.0\Ex_passagensAereas.AssemblyInfo.cs
+C:\Users\T-Gamer\Desktop\SENAI_ATIV\Ex_passagensAereas\obj\Debug\net5.0\Ex_passagensAereas.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Desktop\SENAI_ATIV\Ex_passagensAereas\obj\Debug\net5.0\Ex_passagensAereas.dll
+C:\Users\T-Gamer\Desktop\SENAI_ATIV\Ex_passagensAereas\obj\Debug\net5.0\ref\Ex_passagensAereas.dll
+C:\Users\T-Gamer\Desktop\SENAI_ATIV\Ex_passagensAereas\obj\Debug\net5.0\Ex_passagensAereas.pdb
+C:\Users\T-Gamer\Desktop\SENAI_ATIV\Ex_passagensAereas\obj\Debug\net5.0\Ex_passagensAereas.genruntimeconfig.cache
